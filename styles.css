@@ -1,0 +1,49 @@
+.clr{
+    clear:both;
+}
+body{
+    background-color: #f4f4f4;
+}
+.empty-box{
+    width:5%;
+    float:left;
+    height: 70px;
+    border:1px #f4f4f4 solid;
+    border-radius:5px;
+}
+.box-red {
+    background-color: #ff0000;
+    float:left;
+    width:5%;
+    height: 70px;
+    border:1px black solid;
+    border-radius:5px;
+}
+.box-blue {
+    background-color:#6495ed;
+    float:left;
+    width:5%;
+    height: 70px;
+    border:1px black solid;
+    border-radius:5px;
+}
+.box-yellow {
+    background-color: #fff000;
+    float:left;
+    width:5%;
+    height: 70px;
+    border:1px black solid;
+    border-radius:5px;
+}
+p{
+    text-align: center;
+    color: #000000;
+}
+h1{
+    text-align: center;
+    color: #000000;
+}
+h3{
+    text-align: center;
+    color: #000000;
+}
